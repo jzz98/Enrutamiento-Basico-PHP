@@ -1,16 +1,13 @@
-**Preview**:
+**Repository info**
+This repository is a full curse of php for web, 
+including routing, database conection, controllers, etc.
 
-***Router***
+**Contents of the repository**
+1- Basic routing,
+2- Conection to database mysql
 
-![image](https://github.com/user-attachments/assets/eaab6d6d-388d-455c-84f1-5751fca7984e)
-
-
-
-***Web (routes)***
-
-![image](https://github.com/user-attachments/assets/f80a2b78-71ce-4e3e-b455-76ebd18552c0)
-
-
-
-***Autoloader***
-![image](https://github.com/user-attachments/assets/ca91d6eb-8fbd-4097-9610-20619784eb65)
+**Requeriments**
+1- **Code editor**: VsCode, Vim or whatever.
+2- **PHP**: Latest version [https://windows.php.net/downloads/releases/php-8.4.6-nts-Win32-vs17-x64.zip ](https://windows.php.net/download#php-8.4)
+or download it with xampp [https://www.apachefriends.org/es/index.html](https://www.apachefriends.org/es/index.html)
+3- **Mysql**: Can use it with VsCode or with MySQL ide [https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
