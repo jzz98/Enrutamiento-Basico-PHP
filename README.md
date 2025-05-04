@@ -2,7 +2,7 @@
 This repository is a full curse of php for web, 
 including routing, database conection, controllers, etc.
 
-**Contents of the repository** <br>
+**Contents of the curse (for now)** <br>
 1- Basic routing <br>
 2- Conection to database mysql
 
